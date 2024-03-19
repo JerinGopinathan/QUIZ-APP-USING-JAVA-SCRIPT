@@ -1,0 +1,43 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript??",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+      "question": "Javascript is an _______ language?",
+      "choice1": "Procedural",
+      "choice2": "Object Based",
+      "choice3": "Object Oriented",
+      "choice4": "None of the above",
+      "answer": 3
+    },
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following methods can be used to display data in some form using Javascript",
+      "choice1": "document.write();",
+      "choice2": "console.log();",
+      "choice3": "window.alert();",
+      "choice4": "All of the above;",
+      "answer": 4
+    },
+    {
+      "question": "What keyword is used to check whether a given property is valid or not?",
+      "choice1": "of",
+      "choice2": "in",
+      "choice3": "is",
+      "choice4": "all of the above",
+      "answer": 2
+    }
+  ]
+  
